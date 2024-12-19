@@ -56,6 +56,7 @@ public class AddActivity extends AppCompatActivity {
                 {
                     Toast.makeText(getApplicationContext(), "All field should be filled", Toast.LENGTH_LONG).show();
                 }
+
             }
 
         });
